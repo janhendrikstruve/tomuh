@@ -1,5 +1,4 @@
 import React from 'react';
-import styles from './App.module.css';
 import ToDo from './components/Todo/Todo';
 
 function App(): JSX.Element {
